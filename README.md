@@ -7,4 +7,3 @@
 
 – Achieved significant advancements in Facial Emotion Recognition by combining cutting-edge methodologies and optimizing the model architecture.
 
-Additionally, developed an Emotion Recognition captured in Live(with another model).
